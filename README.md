@@ -69,10 +69,13 @@ I value **fundamentals, direction, and hands-on work** over chasing tools or tit
 
 ## 📜 Certifications
 
-- **ISC2 Certified in Cybersecurity (CC)**
 - **AWS Certified Cloud Practitioner**
-- **CompTIA A+**
+- **CompTIA Security+**
 - **CompTIA Network+**
+- **CompTIA A+**
+- **ISC2 Certified in Cybersecurity (CC)**
+- **LPI Linux Essentials**
+- **Google Cybersecurity Professional Certificate**
 
 ---
 
@@ -120,14 +123,6 @@ I regularly write about:
 📖 **Medium:** https://medium.com/@romancharleston
 
 Writing helps me reinforce concepts and give back to others earlier in the journey.
-
----
-
-## 🎯 Career Philosophy
-
-> *Direction beats chaos. Depth beats noise.*
-
-Early specialization, strong fundamentals, and hands-on projects have mattered more in my career than trying to learn everything at once. I aim to build security systems that are **practical, explainable, and defensible**.
 
 ---
 
