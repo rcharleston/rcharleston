@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Roman Charleston
 
-**Cybersecurity Practitioner | Security Engineering | SOC & Detection | GRC | Cloud Security**
+**Cybersecurity Practitioner | Security Engineering | SOC & Detection | GRC | Cloud Security Curious**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/romancharleston/)
 [![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium)](https://medium.com/@romancharleston)
