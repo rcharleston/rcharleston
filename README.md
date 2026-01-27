@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I’m a cybersecurity professional with experience spanning **security operations, detection engineering, governance/risk/compliance, and cloud security**. I’ve completed **five(ish) cybersecurity internships** across public and private sectors, progressing from foundational roles into **highly technical security engineering and SOC-focused work**.
+I’m a cybersecurity professional with experience spanning **security operations, detection engineering, governance/risk/compliance, and cloud security**. I’ve completed **multiple cybersecurity internships** across public and private sectors, progressing from foundational roles into **highly technical security engineering and SOC-focused work**.
 
 My background includes:
 - Building and supporting **core SOC functions**
