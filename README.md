@@ -76,30 +76,36 @@ I value **fundamentals, direction, and hands-on work** over chasing tools or tit
 
 ---
 
-## 🧪 Projects & Hands-On Work
+## 🧪 Public Work & Case Studies
 
-I focus on projects that reinforce fundamentals and real-world security thinking, including:
+Much of my hands-on security experience comes from internships and professional environments where the work and systems are private by design and cannot be publicly documented.
 
-- **Active Directory & Endpoint Labs**
-  - User/group management
-  - Logging and basic detections
-  - Security configuration testing
+To complement this, I maintain **public case studies and labs** that demonstrate how I approach analysis, investigations, and technical documentation.
 
-- **SOC & Detection Labs**
-  - Alert investigation scenarios
-  - Log ingestion and analysis
-  - Incident walkthroughs
+### 🔍 Windows Prefetch Analysis – DFIR Case Study
+- Conducted forensic analysis of Windows Prefetch artifacts to reconstruct application execution timelines
+- Correlated execution data across multiple artifacts to identify patterns of activity
+- Practiced evidence handling, timeline creation, and investigative documentation
+- Focused on *why* Prefetch artifacts exist and *how* defenders can leverage them during investigations
 
-- **Cloud Security Exercises**
-  - IAM analysis
-  - Cloud monitoring concepts
-  - Security posture review
+📄 Write-up: https://medium.com/@romancharleston
 
-- **Automation Projects**
-  - PowerShell scripts for data cleanup and risk reduction
-  - Workflow improvements supporting security operations
+---
 
-I document lessons learned and technical breakdowns through writing and project notes.
+## 🔐 Professional Experience (Non-Public Work)
+
+Most of my technical security work has been performed in **secure, production environments** during internships and roles where systems, detections, and workflows are confidential.
+
+This work included:
+- SOC alert investigation and triage
+- Detection logic review and alert tuning
+- Log analysis across endpoint and cloud telemetry
+- Cloud security and identity-related analysis
+- Risk identification and security control documentation
+- Supporting and improving security operations workflows
+
+While this work cannot be shared publicly, I can discuss **methodology, decision-making, and lessons learned** at a high level during interviews.
+
 
 ---
 
